@@ -1,6 +1,6 @@
 # Mini Sistema de Cadastro de Livros
 
-Este projeto é uma aplicação web simples e interativa que permite cadastrar, listar, buscar e remover livros. Ele foi desenvolvido utilizando apenas tecnologias do front-end: **HTML**, **CSS** e **JavaScript**, com foco na prática de estruturas fundamentais de programação e orientação a objetos.
+Este projeto é uma aplicação web simples e interativa que permite cadastrar, listar, buscar e remover livros. Ele foi desenvolvido utilizando apenas tecnologias do front-end: HTML, CSS e JavaScript, com foco na prática de estruturas fundamentais de programação e orientação a objetos.
 
 ---
 
@@ -17,9 +17,9 @@ Este projeto é uma aplicação web simples e interativa que permite cadastrar, 
 
 ##  Tecnologias Utilizadas
 
-- **HTML5** — Estrutura da página.
-- **CSS3** — Estilização e responsividade.
-- **JavaScript (ES6+)** — Lógica da aplicação:
+- HTML5 — Estrutura da página.
+- CSS3— Estilização e responsividade.
+- JavaScript (ES6+)** — Lógica da aplicação:
   - Condicionais (`if`, `else`, `switch`)
   - Laços de repetição (`forEach`, `while`)
   - Funções normais e arrow functions
@@ -28,10 +28,10 @@ Este projeto é uma aplicação web simples e interativa que permite cadastrar, 
 
 ---
 
-## ▶️ Instruções para Executar o Projeto
+# Instruções para Executar o Projeto
 
-1. **Clone ou baixe** este repositório.
-2. **Abra o arquivo `index.html`** em qualquer navegador moderno.
+1. Clone ou baixe este repositório.
+2. Abra o arquivo `index.html`** em qualquer navegador moderno.
 3. Utilize o formulário para cadastrar livros e explore as funcionalidades de busca e remoção.
 
 > Nenhuma instalação de dependência é necessária. Basta abrir e usar!
@@ -40,10 +40,6 @@ Este projeto é uma aplicação web simples e interativa que permite cadastrar, 
 
 ##  Integrantes do Grupo
 
-- João Silva  
-- Maria Oliveira  
-- Lucas Souza  
-- Ana Costa
-
+- Marcelo Luiz
 ---
 
