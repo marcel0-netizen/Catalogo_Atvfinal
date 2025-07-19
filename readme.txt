@@ -19,7 +19,7 @@ Este projeto é uma aplicação web simples e interativa que permite cadastrar, 
 
 - HTML5 — Estrutura da página.
 - CSS3— Estilização e responsividade.
-- JavaScript (ES6+)** — Lógica da aplicação:
+- JavaScript ES6+ — Lógica da aplicação:
   - Condicionais (`if`, `else`, `switch`)
   - Laços de repetição (`forEach`, `while`)
   - Funções normais e arrow functions
@@ -30,11 +30,7 @@ Este projeto é uma aplicação web simples e interativa que permite cadastrar, 
 
 # Instruções para Executar o Projeto
 
-1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html`** em qualquer navegador moderno.
-3. Utilize o formulário para cadastrar livros e explore as funcionalidades de busca e remoção.
-
-> Nenhuma instalação de dependência é necessária. Basta abrir e usar!
+1. Utilize o formulário para cadastrar livros e explore as funcionalidades de busca e remoção.
 
 ---
 
